@@ -51,3 +51,12 @@ git merge [branch-name]
 
 git checkout [commit-id]
 	Switches to [commit-id]
+
+git revert --no-edit [commit-id]
+	Reverses [commit-id] commit by making another commit
+
+git reset --hard
+	Resets the working directory
+
+
+	
